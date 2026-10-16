@@ -1,11 +1,11 @@
 <?php
-$nim = "250030601";
-$nama = "Evansky";
-$kodeJurusan = "TI";
+$nim = "250030027";
+$nama = "I Putu Oktavio Widnyana Putra";
+$kodeJurusan = "SI";
 $angkatan = 2025;
 $umur = 20;
 $gender = "Laki-laki";
-$hobi = ["Bermain game", "Belajar komputer"];
+$hobi = ["Bermain game MLBB"];
 
 echo "Biodata Mahasiswa<br>";
 echo "NIM: $nim<br>";

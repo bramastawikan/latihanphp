@@ -1,7 +1,7 @@
 
 <?php
-$x = 10;
-$y = "10";
+$x = 11;
+$y = "11";
 
 echo "Apakah x sama dengan y? ";
 var_dump($x == $y);
